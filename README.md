@@ -1,2 +1,2 @@
 # data-engineering
-Spark + Airflow + Kafka + Flink
+Spark + Airflow + Kafka
